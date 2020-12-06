@@ -1,0 +1,185 @@
+.header{
+	padding-top: 30px;
+	
+
+}
+
+/* .slides{
+	padding-right: 130px;
+
+} */
+/* .row{
+	background-color: blue;
+}
+.col{
+	background-color: red;
+} */
+#descriptions{
+	margin: 40px 0px 40px 0px;
+	
+}
+.fa-phone{
+	transform: rotate(90deg);
+
+}
+hr{
+	margin: 8px;
+}
+.symbols{
+	font-size: 2rem;
+	margin-right: 30px;
+}
+.actions{
+margin-left: 200px;
+}
+.subhead{
+	padding-right: 22px;
+	color: black;
+}
+a:hover{
+	text-decoration: none;
+
+}
+.subhead:hover{
+	
+	color: #e7305b;
+}
+/* .carousel-item{
+	padding-right: 100px;
+} */
+
+.carousel-control-next-icon{
+	position: relative;
+	left: 70px;
+}
+.carousel-control-prev-icon{
+	position: relative;
+	right: 70px;
+
+}
+.ad{
+	text-align: center;
+	font-size: 1.5rem;
+	line-height: 1.5rem;
+	font-family: 'Poiret One', cursive;
+	border: solid;
+	color: grey;
+	border-width: 0.00001px;
+}
+.adline{
+	margin-top: 5%;
+}
+
+.icon{
+	height:40px;
+	width: 40px;
+	position: relative;
+	bottom: 10px; 
+	margin-right: 5px;
+	transform: rotate(-5deg);
+}
+.store-name{
+	font-size: 2rem;
+	margin-right: 20%;
+	font-weight: bold;
+	color: #e7305b;
+	
+}
+.help {
+	font-size: 1rem;
+	margin-left: 2%;
+	margin-right: 2%;
+	padding-bottom: 2%;
+	color: black;
+	position: relative;
+	bottom: 6px;
+	
+}
+.store-name:hover{
+	text-decoration: none;
+	color: #e7305b;
+}
+.help:hover{
+	text-decoration: none;
+	color: red;
+}
+.tagline{
+	font-family: 'News Cycle', sans-serif;
+	font-size: 2rem;
+
+	font-weight: lighter;
+	line-height: 90%;
+}
+.main-tag{
+	padding: 5% 30% 5% 0;
+	
+}
+.subtag{
+	font-family: 'Poiret One', cursive;
+	font-weight: lighter;
+	padding-right: 40%;
+	text-align: top;
+	font-size: 1.5rem;
+
+}
+.button{
+	margin-top: 5%;
+	font-size: 1.5rem;
+	color: white;
+	background-color:#cf1b1b;
+	border-radius: 5px;
+	border-color:#cf1b1b;
+	padding: 2% 8% 2% 8%;
+	font-size: 1rem;
+}
+.button:hover{
+	background-color: white;
+	color: red;
+	border-color: red;
+}
+.learnmore{
+	color:#eb8f8f;
+}
+.learnmore:hover{
+	color:red;
+}
+.brand{
+	padding-right: 180px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+.love{
+	color: red;
+	font-family: 'News Cycle', sans-serif;
+	
+
+	font-weight: lighter;
+	
+}
+.suite{
+	
+	left: 24px;
+
+}
+.suite1{
+	
+	left: 48px;
+}
+h3{
+	font-family: 'News Cycle', sans-serif;
+	
+
+	font-weight: lighter;
+}
+
+footer{
+	background-color: #393e46;
+	color: #bbbbbb;
+}
+#footer{
+	padding: 7% 15%;
+	text-align: center;
+}
+.social-icon{
+	margin: 20px 10px ;
+}
