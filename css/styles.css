@@ -101,7 +101,7 @@ a:hover{
 }
 .help:hover{
 	text-decoration: none;
-	color: red;
+	color:#e7305b;
 }
 .tagline{
 	font-family: 'News Cycle', sans-serif;
